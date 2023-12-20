@@ -1,0 +1,8 @@
+flask
+scikit-learn
+numpy
+pandas==1.5.0
+pickle4
+
+
+
